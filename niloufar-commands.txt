@@ -4,3 +4,12 @@ git add
 git commit
 git push
 git log
+
+git clone git@github.com:name/repo.git 
+ssh-keygen
+
+git remote -v        
+git remote rm origin
+git remote add origin git@github.com:ArcoMul/hyf-28-w2.git SSHADRESS NOT HTTPS
+git push --set-upstream origin BRANCHNAME
+
