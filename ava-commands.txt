@@ -11,5 +11,9 @@ $ nano ava-commands.txt
 $ git add ava-commands.txt
 
 $ commit -m "message"
+
 $ git status
+
 $ git log
+
+i wanted to see how i can be in front of online file
