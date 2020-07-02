@@ -1,0 +1,11 @@
+Hello this is my week2's task.
+I used next command:
+$ git clone https://github.com/ArcoMul/hyf-28-w2.git
+git branch week2
+git checkout week2
+$ git touch serafima-commands.txt
+$ nano serafima-commands.txt
+$ git add serafima-commands.txt
+$ commit -m "File for the week2's exersize"
+$ git status
+$ git push origin master
