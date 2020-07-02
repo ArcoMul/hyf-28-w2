@@ -5,7 +5,7 @@ git branch week2
 git checkout week2
 git touch serafima-commands.txt
 nano serafima-commands.txt
-git add serafima-commands.txt
+git add .
 git commit -m "File for the week2's exersize"
 git status
 git push origin master
