@@ -1,0 +1,43 @@
+ 1-ls - used to list files and directories
+2-mkdir - used to create a new directory
+3-cd - used to change directories
+4-rm - used to remove files and directories
+5-git init - create a new, empty repository in the current directory.
+6-git clone <path-to-repository-to-clone>  used to create an identical copy of an existing repository.
+7-git status command will display the current status of the repository.
+8-The git log command is used to display all of the commits of a repository.
+9-git log --oneline can be used to alter how it displays the repository's information 
+ "lists one commit per line","shows the commit's message"
+
+10-git log --stat
+This command:
+
+    displays the number of lines that have been added/removed
+    displays the file(s) that have been modified
+    displays a summary line with the total number of modified files and lines that have been added/removed
+
+11-git log -p
+This command adds the following to the default output:
+
+displays the files that have been modified
+displays the location of the lines that have been added/removed
+displays the actual changes that have been made
+
+12- The git show command will show only one commit.and can be combined with most of the other flags we've looked at:
+
+--stat - to show the how many files were changed and the number of lines that were added/removed
+-p or --patch - this the default, but if --stat is used, the patch won't display, so pass -p to add it again
+-w - to ignore changes to whitespace
+
+13- git add command is used to move files from the Working Directory to the Staging Index
+
+15-git commit command takes files from the Staging Index and saves them in the repository.
+
+17- git diff command is used to see changes that have been made but haven't been committed, yet:
+This command displays:
+
+the files that have been modified
+the location of the lines that have been added/removed
+the actual changes that have been made
+
+18-
