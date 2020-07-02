@@ -1,0 +1,30 @@
+Hi guys, this is week 2 home work. here i'll include the steps
+to take in order to create this file.
+
+1- git clone (https://github.com/ArcoMul/hyf-28-w2.git).
+
+
+
+2- to create my branch:
+  git branch wasim
+
+
+3-  to switch from master to my branch:
+   git checkout wasim
+
+
+4- to create my file:
+  touch wasim-commands.txt
+
+
+5- git add .
+
+
+6- git commit -m "adding the file ..."
+
+
+7- to push my branch  in the repository:
+  git push --set-upstream origin wasim.
+
+ 
+ 
