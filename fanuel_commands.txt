@@ -18,5 +18,7 @@ $ git pull
   make a request if your changes in the local repository can be accepted/ approved in the remote repository
 $ git clone 
   download an existing remote repository in to your repository  
+$ git branch 
+  shows you the list of branches in the repository 
   
 
