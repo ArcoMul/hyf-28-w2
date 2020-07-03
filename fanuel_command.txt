@@ -20,3 +20,5 @@ $ git clone
   download an existing remote repository in to your repository  
 $ git branch 
   shows you the list of branches in the repository 
+$ git branch -d <file name>
+  delete a branch 
