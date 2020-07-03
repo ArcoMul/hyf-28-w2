@@ -1,7 +1,7 @@
 Hello Everyone, 
 Below is a list of some Git commands I am practising on : 
 $ git init 
-  Initialises a new git directory 
+  Initialize a new git directory 
 $ git status 
   shows the current status of the repository 
 $ git add < filename> or <.>
